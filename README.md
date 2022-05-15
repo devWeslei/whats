@@ -1,16 +1,40 @@
-# whatsapp
+# Whats 
 
-A new Flutter project.
+## Screens
+![Preview-Screens](https://github.com/devWeslei/whats/blob/main/imagens/1.jpg)
 
-## Getting Started
+## Chatting
+![Preview-Screens](https://github.com/devWeslei/whats/blob/main/imagens/2.jpg)
 
-This project is a starting point for a Flutter application.
+## About this Project
+WhatsApp simulation app using:   
+-Firestore Database.   
+-Firebase Auth.   
+-Firebase Storage.   
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Functionalities   
+-registered user authentication.   
+-simultaneous chat with users.   
+-edit name and profile picture.   
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Difficulties
+-this project was made based on the course [Desenvolvimento Android e IOS com Flutter](https://www.udemy.com/course/desenvolvimento-android-e-ios-com-flutter/), from
+[Udemy](https://www.udemy.com/?ranMID=39197&ranEAID=0EOJOrTo2D4&ranSiteID=0EOJOrTo2D4-jEdslSFjh_Izd2eciLplfw&LSNPUBID=0EOJOrTo2D4&utm_source=aff-campaign&utm_medium=udemyads), but due to the frequent updates of Flutter many functionalities and syntax have changed, so I fixed it by searching one by one.   
+This challenge sure made me improve my skills! lol    
+In the end it was pretty cool!
+## Made in
+-Flutter 2.10.4 • channel stable.   
+-Dart SDK version: 2.16.2 (stable).   
+
+
+</br>
+
+>if you liked, contribute by giving a ⭐ !! I'll be grateful 😁      
+
+</br>   
+<div align="center">   
+  
+   [![Linkedin Badge](https://img.shields.io/badge/-weslei%20tiago-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weslei-tiago-53b47a208/)](https://www.linkedin.com/in/weslei-tiago-53b47a208/)   
+  
+   </div>
